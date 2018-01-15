@@ -1,0 +1,2 @@
+# bootstrap
+stock file bootstrap
